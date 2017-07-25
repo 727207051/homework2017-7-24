@@ -1,0 +1,380 @@
+body,h1,h2,h3,h4,div,ul,ol,li,dl,dt,dd,form,a,img,span,em,i,strong,b{
+	margin: 0;padding: 0;
+	}
+li{
+	 list-style: none;
+	 }
+img{
+	border: 0;
+	vertical-align:top;
+	}
+body{
+	font-size: 18px;
+	font-family: "微软雅黑";
+	color:#000;
+	background:#75a6ff;
+	}
+a{
+	text-decoration: none;
+	color:#000;
+	}
+a:hover{
+	color:red;
+	}
+.clearfix:before,.clearfix:after{
+	content: " ";
+	display: table;
+	}
+.clearfix:after{
+	clear: both;
+	}
+
+
+#head{
+	background: url(../images/head_bg.jpg) no-repeat center top;
+	height: 553px;
+}
+.layer{
+	width: 990px;
+	margin: 0 auto;
+	
+}
+
+#running{
+	margin-bottom: 53px;
+}
+#running h2{
+	background: url(../images/running_h2.gif) no-repeat center top;
+	height: 84px;
+	margin-top: 18px;
+	margin-left: 35px;
+}
+
+#running dl{
+	background: url(../images/running_bg.jpg) no-repeat center top;
+	margin: 6px 0 0 -82px;
+}
+#running dt{
+	color: white;
+	margin: 25px 0 0 410px;	
+	line-height: 28px;
+	padding-top: 5px;;
+}
+
+#running .dd_big{
+		float: left;
+		height: 160px;
+		width: 333px;	
+		margin: 3px 9px 4px 0;
+		background: #FFFFFF;
+		color: #000000;
+}
+.running_r{
+	padding-left:388px;
+}
+#running img{
+	float: left;
+}
+#running p{
+	float: left;
+	font-size: 14px;
+	line-height: 17px;
+	margin: 67px 0 0 5px;
+}
+#running span{
+	float: left;
+	font-size: 16px;
+	margin: 0 0 0 5px;
+	line-height: 32px;
+}
+#running button{
+	float: left;
+	color: white;
+	background: #000000;
+	border-radius: 3px;
+	border: 0;
+	cursor:pointer;
+}
+
+#running .dd_small{
+		float: left;
+		height: 206px;
+		width: 162px;	
+		margin: 3px 9px 10px 0;
+		background: #FFFFFF;
+}
+
+#running .dd_small img{
+		margin-top: 33px;
+}
+
+#running .dd_small p{
+	width: 162px;
+	margin: 35px auto 5px;
+	text-align: center;
+
+}
+#running .dd_small span{
+	width: 162px;
+	text-align: center;
+	line-height: 14px;;
+
+}
+#running .title{
+	margin-top: 41px;
+	background: url(../images/running_iocn.png);
+	height: 47px;
+}
+
+#running a{
+	float: left;
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	height: 47px;
+	margin: 8px 0 0 0;
+	
+}
+#running .MT144{
+	margin-left:144px;
+	color: #4f70fe;
+}
+#running .MT246{
+	margin-left:246px;
+}
+#running .MT263{
+	margin-left:263px;
+}
+#running .shoes{
+	margin-top:20px;
+	width: 1010px;
+}
+#running .shoes li{
+	float: left;
+	width: 189px;
+	height: 260px;
+	background: white;
+	margin-right:11px;
+	margin-top: 13px;
+}
+#running .shoes p{
+	margin: 8px 0 4px 0;
+	width: 189px;
+	text-align: center;
+}
+#running .shoes span{
+	width: 107px;
+	font-size: 16px;
+	color: #e93030;
+	font-weight: 600;
+	padding-left: 5px;
+	line-height: 16px;
+}
+#running .shoes i{
+	float: left;
+	font-size: 12px;
+	font-style: normal;
+	color: #bbbbbb;
+	width: 106px;
+	height: 12px;
+	margin-left: 10px;
+	margin-top: 5px;
+	text-decoration: line-through;
+	
+}
+#running .shoes button{
+	float: left;
+	height: 35px;
+	width: 51px;
+	font-size: 14px;
+	line-height: 15px;
+	margin-left:17px;
+	margin-top: -15px;
+	background: #e93030 url(../images/running_shoes_buy.png) no-repeat 39px 9px;
+	/*background-image: url(../images/running_shoes_buy.png) no-repeat 39px 9px;*/
+	padding-left: 6px;
+	text-align: left;
+}
+
+#running .title2{
+	background: url(../images/running_iocn2.png);
+}
+#running ._1{
+	color: white;
+}
+#running ._2{
+	color: #4f70fe;
+}
+#running .title3{
+	background: url(../images/running_iocn3.png);
+}
+
+/*垂钓*/
+
+
+#fishing h2{
+	background: url(../images/fishing_h2.gif) no-repeat center top;
+	height: 84px;
+	margin-left: 35px;
+}
+
+#fishing dl{
+	background: url(../images/fishing_bg.jpg) no-repeat;
+	margin: 6px 0 0 0;
+	padding-right:90px;
+	width: 976px;
+}
+#fishing dt{
+	color: white;
+	margin: 25px 0 0 280px;
+	line-height: 28px;
+	padding-top: 5px;
+	
+}
+
+#fishing .dd_big{
+		float: left;
+		height: 160px;
+		width: 333px;	
+		margin: 3px 0px 4px 9px;
+		background: #FFFFFF;
+}
+.fishing_r{
+	width: 688px;
+}
+#fishing img{
+	float: left;
+}
+#fishing p{
+	float: left;
+	font-size: 14px;
+	line-height: 17px;
+	margin: 67px 0 0 5px;
+}
+#fishing span{
+	float: left;
+	font-size: 16px;
+	margin: 0 0 0 5px;
+	line-height: 32px;
+}
+#fishing button{
+	float: left;
+	color: white;
+	background: #000000;
+	border-radius: 3px;
+	border: 0;
+	cursor:pointer;
+}
+
+#fishing .dd_small{
+		float: left;
+		height: 206px;
+		width: 162px;	
+		margin: 3px 0 10px 9px;
+		background: #FFFFFF;
+}
+
+#fishing .dd_small img{
+		margin-top: 33px;
+}
+
+#fishing .dd_small p{
+	width: 162px;
+	margin: 35px auto 5px;
+	text-align: center;
+
+}
+#fishing .dd_small span{
+	width: 162px;
+	text-align: center;
+	line-height: 14px;;
+
+}
+#fishing .title{
+	margin-top: 41px;
+	background: url(../images/running_iocn.png);
+	height: 47px;
+}
+
+#fishing a{
+	float: left;
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	height: 47px;
+	margin: 8px 0 0 0;
+	
+}
+#fishing .MT144{
+	margin-left:144px;
+	color: #4f70fe;
+}
+#fishing .MT246{
+	margin-left:246px;
+}
+#fishing .MT263{
+	margin-left:263px;
+}
+#fishing .shoes{
+	margin-top:20px;
+	width: 1010px;
+}
+#fishing .shoes li{
+	float: left;
+	width: 189px;
+	height: 260px;
+	background: white;
+	margin-right:11px;
+	margin-top: 13px;
+}
+#fishing .shoes p{
+	margin: 8px 0 4px 0;
+	width: 189px;
+	text-align: center;
+}
+#fishing .shoes span{
+	width: 107px;
+	font-size: 16px;
+	color: #e93030;
+	font-weight: 600;
+	padding-left: 5px;
+	line-height: 16px;
+}
+#fishing .shoes i{
+	float: left;
+	font-size: 12px;
+	font-style: normal;
+	color: #bbbbbb;
+	width: 106px;
+	height: 12px;
+	margin-left: 10px;
+	margin-top: 5px;
+	text-decoration: line-through;
+	
+}
+#fishing .shoes button{
+	float: left;
+	height: 35px;
+	width: 51px;
+	font-size: 14px;
+	line-height: 15px;
+	margin-left:17px;
+	margin-top: -15px;
+	background: #e93030 url(../images/running_shoes_buy.png) no-repeat 39px 9px;
+	/*background-image: url(../images/running_shoes_buy.png) no-repeat 39px 9px;*/
+	padding-left: 6px;
+	text-align: left;
+}
+
+#fishing .title2{
+	background: url(../images/running_iocn2.png);
+}
+#fishing ._1{
+	color: white;
+}
+#fishing ._2{
+	color: #4f70fe;
+}
+#fishing .title3{
+	background: url(../images/running_iocn3.png);
+}
